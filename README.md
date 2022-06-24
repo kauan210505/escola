@@ -1,2 +1,0 @@
-# escola
-trabalho escola
